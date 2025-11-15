@@ -1,2 +1,1 @@
-# kylieseto
-Intro - HackCamp
+
